@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1519831638 source:d:\tym razem c++\zad5\main.cpp
+	<iostream>
+	"punkt.h"
+	<cmath>
+
+1519831803 d:\tym razem c++\zad5\punkt.h
+
+1519829751 source:d:\tym razem c++\zad5\punkt.cpp
+	"punkt.h"
+
+1519829751 source:d:\tym razem c++\zad5\punkt.h
+
